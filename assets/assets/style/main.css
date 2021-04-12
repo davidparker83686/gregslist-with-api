@@ -10695,4 +10695,12 @@ main {
   flex-grow: 1;
 }
 
+.body-font{
+  font-family: 'Bebas Neue', cursive;
+}
+
+.button-font{
+  font-size: 30px;
+}
+
 /*# sourceMappingURL=main.css.map */
